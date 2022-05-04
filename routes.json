@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Category___en",
+    "path": "/Category",
+    "component": "/home/diego_818/storefront-b2b/pages/Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_36853a05"
+  },
+  {
+    "name": "checkout___en",
+    "path": "/checkout",
+    "component": "/home/diego_818/storefront-b2b/pages/Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___en",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Billing.vue",
+        "_name": "_20a95ace"
+      },
+      {
+        "path": "payment",
+        "name": "payment___en",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Payment.vue",
+        "_name": "_e34ab6b8"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___en",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Shipping.vue",
+        "_name": "_45793700"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___en",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/ThankYou.vue",
+        "_name": "_2f0702a7"
+      }
+    ],
+    "_name": "_744c664d"
+  },
+  {
+    "name": "Checkout___en",
+    "path": "/Checkout",
+    "component": "/home/diego_818/storefront-b2b/pages/Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___en",
+        "path": "Billing",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Billing.vue",
+        "chunkName": "pages/Checkout/Billing",
+        "_name": "_20a95ace"
+      },
+      {
+        "name": "Checkout-Payment___en",
+        "path": "Payment",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Payment.vue",
+        "chunkName": "pages/Checkout/Payment",
+        "_name": "_e34ab6b8"
+      },
+      {
+        "name": "Checkout-Shipping___en",
+        "path": "Shipping",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping",
+        "_name": "_45793700"
+      },
+      {
+        "name": "Checkout-ThankYou___en",
+        "path": "ThankYou",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou",
+        "_name": "_2f0702a7"
+      }
+    ],
+    "_name": "_744c664d"
+  },
+  {
+    "name": "ContactUs___en",
+    "path": "/ContactUs",
+    "component": "/home/diego_818/storefront-b2b/pages/ContactUs.vue",
+    "chunkName": "pages/ContactUs",
+    "_name": "_9ea92232"
+  },
+  {
+    "name": "home___de",
+    "path": "/de",
+    "component": "/home/diego_818/storefront-b2b/pages/Home.vue",
+    "_name": "_6902ae34"
+  },
+  {
+    "name": "GetQuote___en",
+    "path": "/GetQuote",
+    "component": "/home/diego_818/storefront-b2b/pages/GetQuote.vue",
+    "chunkName": "pages/GetQuote",
+    "_name": "_77b38466"
+  },
+  {
+    "name": "Home___en",
+    "path": "/Home",
+    "component": "/home/diego_818/storefront-b2b/pages/Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_6902ae34"
+  },
+  {
+    "name": "MyAccount___en",
+    "path": "/MyAccount",
+    "component": "/home/diego_818/storefront-b2b/pages/MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-AdressBook___en",
+        "path": "AdressBook",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/AdressBook.vue",
+        "chunkName": "pages/MyAccount/AdressBook",
+        "_name": "_02c284d8"
+      },
+      {
+        "name": "MyAccount-BillingDetails___en",
+        "path": "BillingDetails",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails",
+        "_name": "_9e573048"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___en",
+        "path": "LoyaltyCard",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard",
+        "_name": "_4d8f309e"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___en",
+        "path": "MyNewsletter",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter",
+        "_name": "_ac9b374c"
+      },
+      {
+        "name": "MyAccount-MyProfile___en",
+        "path": "MyProfile",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile",
+        "_name": "_45eb22d8"
+      },
+      {
+        "name": "MyAccount-MyReviews___en",
+        "path": "MyReviews",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews",
+        "_name": "_e523f76c"
+      },
+      {
+        "name": "MyAccount-OrderHistory___en",
+        "path": "OrderHistory",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory",
+        "_name": "_f610f48a"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___en",
+        "path": "ShippingDetails",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails",
+        "_name": "_1993fb6f"
+      }
+    ],
+    "_name": "_505aa96a"
+  },
+  {
+    "name": "Product___en",
+    "path": "/Product",
+    "component": "/home/diego_818/storefront-b2b/pages/Product.vue",
+    "chunkName": "pages/Product",
+    "_name": "_8f08e690"
+  },
+  {
+    "name": "QuickOrder___en",
+    "path": "/QuickOrder",
+    "component": "/home/diego_818/storefront-b2b/pages/QuickOrder.vue",
+    "chunkName": "pages/QuickOrder",
+    "_name": "_77481128"
+  },
+  {
+    "name": "reset-password___en",
+    "path": "/reset-password",
+    "component": "/home/diego_818/storefront-b2b/pages/ResetPassword.vue",
+    "_name": "_6af0a2da"
+  },
+  {
+    "name": "ResetPassword___en",
+    "path": "/ResetPassword",
+    "component": "/home/diego_818/storefront-b2b/pages/ResetPassword.vue",
+    "chunkName": "pages/ResetPassword",
+    "_name": "_6af0a2da"
+  },
+  {
+    "name": "TermsAndConditions___en",
+    "path": "/TermsAndConditions",
+    "component": "/home/diego_818/storefront-b2b/pages/TermsAndConditions.vue",
+    "chunkName": "pages/TermsAndConditions",
+    "_name": "_7630c222"
+  },
+  {
+    "name": "Category___de",
+    "path": "/de/Category",
+    "component": "/home/diego_818/storefront-b2b/pages/Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_36853a05"
+  },
+  {
+    "name": "checkout___de",
+    "path": "/de/checkout",
+    "component": "/home/diego_818/storefront-b2b/pages/Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___de",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Billing.vue",
+        "_name": "_20a95ace"
+      },
+      {
+        "path": "payment",
+        "name": "payment___de",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Payment.vue",
+        "_name": "_e34ab6b8"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___de",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Shipping.vue",
+        "_name": "_45793700"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___de",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/ThankYou.vue",
+        "_name": "_2f0702a7"
+      }
+    ],
+    "_name": "_744c664d"
+  },
+  {
+    "name": "Checkout___de",
+    "path": "/de/Checkout",
+    "component": "/home/diego_818/storefront-b2b/pages/Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___de",
+        "path": "Billing",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Billing.vue",
+        "chunkName": "pages/Checkout/Billing",
+        "_name": "_20a95ace"
+      },
+      {
+        "name": "Checkout-Payment___de",
+        "path": "Payment",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Payment.vue",
+        "chunkName": "pages/Checkout/Payment",
+        "_name": "_e34ab6b8"
+      },
+      {
+        "name": "Checkout-Shipping___de",
+        "path": "Shipping",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping",
+        "_name": "_45793700"
+      },
+      {
+        "name": "Checkout-ThankYou___de",
+        "path": "ThankYou",
+        "component": "/home/diego_818/storefront-b2b/pages/Checkout/ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou",
+        "_name": "_2f0702a7"
+      }
+    ],
+    "_name": "_744c664d"
+  },
+  {
+    "name": "ContactUs___de",
+    "path": "/de/ContactUs",
+    "component": "/home/diego_818/storefront-b2b/pages/ContactUs.vue",
+    "chunkName": "pages/ContactUs",
+    "_name": "_9ea92232"
+  },
+  {
+    "name": "GetQuote___de",
+    "path": "/de/GetQuote",
+    "component": "/home/diego_818/storefront-b2b/pages/GetQuote.vue",
+    "chunkName": "pages/GetQuote",
+    "_name": "_77b38466"
+  },
+  {
+    "name": "Home___de",
+    "path": "/de/Home",
+    "component": "/home/diego_818/storefront-b2b/pages/Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_6902ae34"
+  },
+  {
+    "name": "MyAccount___de",
+    "path": "/de/MyAccount",
+    "component": "/home/diego_818/storefront-b2b/pages/MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-AdressBook___de",
+        "path": "AdressBook",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/AdressBook.vue",
+        "chunkName": "pages/MyAccount/AdressBook",
+        "_name": "_02c284d8"
+      },
+      {
+        "name": "MyAccount-BillingDetails___de",
+        "path": "BillingDetails",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails",
+        "_name": "_9e573048"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___de",
+        "path": "LoyaltyCard",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard",
+        "_name": "_4d8f309e"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___de",
+        "path": "MyNewsletter",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter",
+        "_name": "_ac9b374c"
+      },
+      {
+        "name": "MyAccount-MyProfile___de",
+        "path": "MyProfile",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile",
+        "_name": "_45eb22d8"
+      },
+      {
+        "name": "MyAccount-MyReviews___de",
+        "path": "MyReviews",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews",
+        "_name": "_e523f76c"
+      },
+      {
+        "name": "MyAccount-OrderHistory___de",
+        "path": "OrderHistory",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory",
+        "_name": "_f610f48a"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___de",
+        "path": "ShippingDetails",
+        "component": "/home/diego_818/storefront-b2b/pages/MyAccount/ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails",
+        "_name": "_1993fb6f"
+      }
+    ],
+    "_name": "_505aa96a"
+  },
+  {
+    "name": "Product___de",
+    "path": "/de/Product",
+    "component": "/home/diego_818/storefront-b2b/pages/Product.vue",
+    "chunkName": "pages/Product",
+    "_name": "_8f08e690"
+  },
+  {
+    "name": "QuickOrder___de",
+    "path": "/de/QuickOrder",
+    "component": "/home/diego_818/storefront-b2b/pages/QuickOrder.vue",
+    "chunkName": "pages/QuickOrder",
+    "_name": "_77481128"
+  },
+  {
+    "name": "reset-password___de",
+    "path": "/de/reset-password",
+    "component": "/home/diego_818/storefront-b2b/pages/ResetPassword.vue",
+    "_name": "_6af0a2da"
+  },
+  {
+    "name": "ResetPassword___de",
+    "path": "/de/ResetPassword",
+    "component": "/home/diego_818/storefront-b2b/pages/ResetPassword.vue",
+    "chunkName": "pages/ResetPassword",
+    "_name": "_6af0a2da"
+  },
+  {
+    "name": "TermsAndConditions___de",
+    "path": "/de/TermsAndConditions",
+    "component": "/home/diego_818/storefront-b2b/pages/TermsAndConditions.vue",
+    "chunkName": "pages/TermsAndConditions",
+    "_name": "_7630c222"
+  },
+  {
+    "name": "my-account___de",
+    "path": "/de/my-account/:pageName?",
+    "component": "/home/diego_818/storefront-b2b/pages/MyAccount.vue",
+    "_name": "_505aa96a"
+  },
+  {
+    "name": "product___de",
+    "path": "/de/p/:id/:slug",
+    "component": "/home/diego_818/storefront-b2b/pages/Product.vue",
+    "_name": "_8f08e690"
+  },
+  {
+    "name": "category___de",
+    "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "/home/diego_818/storefront-b2b/pages/Category.vue",
+    "_name": "_36853a05"
+  },
+  {
+    "name": "my-account___en",
+    "path": "/my-account/:pageName?",
+    "component": "/home/diego_818/storefront-b2b/pages/MyAccount.vue",
+    "_name": "_505aa96a"
+  },
+  {
+    "name": "product___en",
+    "path": "/p/:id/:slug",
+    "component": "/home/diego_818/storefront-b2b/pages/Product.vue",
+    "_name": "_8f08e690"
+  },
+  {
+    "name": "category___en",
+    "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "/home/diego_818/storefront-b2b/pages/Category.vue",
+    "_name": "_36853a05"
+  },
+  {
+    "name": "home___en",
+    "path": "/",
+    "component": "/home/diego_818/storefront-b2b/pages/Home.vue",
+    "_name": "_6902ae34"
+  }
+]
